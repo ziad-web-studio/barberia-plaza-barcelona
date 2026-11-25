@@ -1,6 +1,6 @@
 # Barbería Plaza Barcelona by Kamal
 
-Website of Barbería Plaza Barcelona, Plaza de Barcelona 17, 37004 Salamanca.
+Website of Barbería Plaza Barcelona, Plaza de Barcelona 14, 37004 Salamanca.
 
 Live at https://barberiaplazabarcelona.es/ (GitHub Pages, custom domain set in `CNAME`).
 
